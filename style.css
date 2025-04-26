@@ -1,0 +1,96 @@
+
+body {
+    text-align: center;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    background-color: #D9D9D9;
+}
+.container {
+    background-color: #B295FF;
+    margin:  auto;
+    padding: 20px;
+}
+/* set the font size and color of the heading */
+h1 {
+    font-size: 2em;
+    color: #FFFFFF;
+}
+/* set the font size and color of the button */
+button {
+    color: #000;
+    background-color: #fff;
+    border: none;
+    padding: 10px 30px;
+    margin: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+/* set the font size and color of the input field */
+input {
+    font-size: 40px;
+    color: #fff;
+    background-color: #D9D9D9;
+    font-weight: bold;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    height: 45px;
+    width: 85px;
+    text-align: center;
+}  
+/* set the font size and color of the distance */
+.distance {
+    color: #5A537B;
+    background-color: #FFFFFF;
+    font-weight: bold;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px 20px;
+}
+/* set the font size and color of the size */
+.size {
+    color: #5A537B;
+    background-color: #FFFFFF;
+    font-weight: bold;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px 20px;
+}
+/* set the font size and color of the metric */
+.metric {
+    /* font-size: 40px; */
+    color: #5A537B;
+    background-color: #FFFFFF;
+    font-weight: bold;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px 20px;
+}
+/* set the font size and color of the imperial */
+.imperial {
+    color: #5A537B;
+    background-color: #FFFFFF;
+    font-weight: bold;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px 20px;
+}
+/* set the font size and color of the weight */
+.weight {
+    color: #5A537B;
+    background-color: #FFFFFF;
+    font-weight: bold;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px 20px;
+}
+.units p {
+    color: #353535
+    font-size: 20px;
+    font-weight: normal;
+}
