@@ -5,10 +5,10 @@ This project provides a simple and efficient way to convert between metric and i
 ## Features
 
 - Convert between metric and imperial units for:
-    - Length (e.g., meters to feet, kilometers to miles)
-    - Size (e.g., inches to centimetrs)
-    - Weight (e.g., kilograms to pounds)
-    - Volume (e.g., liters to gallons)
+  - Length (e.g., meters to feet, kilometers to miles)
+  - Size (e.g., inches to centimetrs)
+  - Weight (e.g., kilograms to pounds)
+  - Volume (e.g., liters to gallons)
 - Easy-to-use API for integration into other projects.
 - Accurate and reliable conversion calculations.
 
